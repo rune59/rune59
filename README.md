@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rune59
+- 👋 Hi, I’m Rune
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects where I can practice my skills
